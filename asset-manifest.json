@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raunak-io/monsters-rolodex-react.git/static/css/main.e5fad0db.chunk.css",
+    "main.js": "/raunak-io/monsters-rolodex-react.git/static/js/main.6dddf9d8.chunk.js",
+    "main.js.map": "/raunak-io/monsters-rolodex-react.git/static/js/main.6dddf9d8.chunk.js.map",
+    "runtime-main.js": "/raunak-io/monsters-rolodex-react.git/static/js/runtime-main.d4a58340.js",
+    "runtime-main.js.map": "/raunak-io/monsters-rolodex-react.git/static/js/runtime-main.d4a58340.js.map",
+    "static/js/2.1e0a16b6.chunk.js": "/raunak-io/monsters-rolodex-react.git/static/js/2.1e0a16b6.chunk.js",
+    "static/js/2.1e0a16b6.chunk.js.map": "/raunak-io/monsters-rolodex-react.git/static/js/2.1e0a16b6.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/raunak-io/monsters-rolodex-react.git/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/raunak-io/monsters-rolodex-react.git/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/raunak-io/monsters-rolodex-react.git/index.html",
+    "static/css/main.e5fad0db.chunk.css.map": "/raunak-io/monsters-rolodex-react.git/static/css/main.e5fad0db.chunk.css.map",
+    "static/js/2.1e0a16b6.chunk.js.LICENSE.txt": "/raunak-io/monsters-rolodex-react.git/static/js/2.1e0a16b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a58340.js",
+    "static/js/2.1e0a16b6.chunk.js",
+    "static/css/main.e5fad0db.chunk.css",
+    "static/js/main.6dddf9d8.chunk.js"
+  ]
+}
